@@ -1,0 +1,12 @@
+axis_linear:
+  x: 10
+  y: 9
+scale_linear:
+  x: 1
+  y: 1
+axis_angular:
+  yaw: 0
+scale_angular:
+  yaw: 0.5
+enable_button: 2
+enable_turbo_button: 1
